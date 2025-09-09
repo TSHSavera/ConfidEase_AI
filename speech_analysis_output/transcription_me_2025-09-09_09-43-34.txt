@@ -1,0 +1,30 @@
+============================================================
+SPEECH TRANSCRIPTION RESULTS
+============================================================
+Audio File: C:\Users\sandr\Music\Audacity\me.wav
+Transcription Date: 2025-09-09 09:43:34
+Word Count: 116
+Confidence Score: N/A
+------------------------------------------------------------
+FULL TRANSCRIPTION:
+------------------------------------------------------------
+Every morning you make countless small choices. You choose kindness over indifference when you smile at stranger. You choose growth over comfort when you learn something new. You choose connection over isolation when you reach outdoor friend. This moment seems insignificant but they're not. The ripple outward in ways you'll never fully know. Your encouragement might be exactly what someone needs to keep going. Your curiosity might spark an innovation that changes everything. The world doesn't need you to be perfect. It needs you to be the present, to care, and to act even in a small ways. Because small actions multiplied by millions of people transform the world. What small action will you choose today?
+
+------------------------------------------------------------
+DETAILED SEGMENTS:
+------------------------------------------------------------
+Segment 1: [0.0-7.38] Every morning you make countless small choices. You choose kindness over indifference when you smile at stranger.
+Segment 2: [8.24-11.56] You choose growth over comfort when you learn something new.
+Segment 3: [12.16-16.18] You choose connection over isolation when you reach outdoor friend.
+Segment 4: [16.68-19.36] This moment seems insignificant but they're not.
+Segment 5: [20.3-23.42] The ripple outward in ways you'll never fully know.
+Segment 6: [24.1-28.86] Your encouragement might be exactly what someone needs to keep going.
+Segment 7: [28.86-33.62] Your curiosity might spark an innovation that changes everything.
+Segment 8: [34.14-36.16] The world doesn't need you to be perfect.
+Segment 9: [36.74-42.76] It needs you to be the present, to care, and to act even in a small ways.
+Segment 10: [43.54-48.12] Because small actions multiplied by millions of people transform the world.
+Segment 11: [48.82-50.6] What small action will you choose today?
+
+============================================================
+END OF TRANSCRIPTION
+============================================================
