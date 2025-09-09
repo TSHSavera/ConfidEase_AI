@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+*.sqlite3
+*.db
+*.pkl
+*.h5
+*.hdf5
+*.env
+.env
+venv/
+ENV/
+.envrc
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Models and Data
+#models/
+#data/
+#speech_analysis_output/
+
+# Other
+*.bak
+*.tmp
+
+# Ignore all pycache folders recursively
+**/__pycache__/
