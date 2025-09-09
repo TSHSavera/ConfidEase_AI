@@ -1,56 +1,5 @@
 # ConfidEase AI
 
-## 🤖 How the AI Analyzes Your Speech
-
-### 1. **Audio Processing Pipeline**
-```
-Audio Input → Whisper STT → Text Comparison → Clarity Scoring
-```
-- **Whisper AI** transcribes your speech with high accuracy
-- **Librosa** processes audio signals for acoustic features
-- **Noise reduction** and normalization improve transcription quality
-- **Multi-format support** handles various audio file types
-
-### 2. **Emotion Detection Process**
-```
-Text → Sentence Segmentation → Transformer Models → Emotion Classification
-```
-- **HuggingFace Transformers** analyze emotional content
-- **Sentence-level mapping** tracks emotional progression
-- **VADER sentiment** provides additional emotional context
-- **Consistency scoring** measures emotional stability throughout speech
-
-### 3. **Clarity Analysis Method**
-```
-User Text ↔ AI Transcription → Word Matching → Pronunciation Assessment
-```
-- **Word-level comparison** between intended and transcribed text
-- **Edit distance algorithms** identify potential mispronunciations
-- **Phonetic similarity matching** catches sound-based errors
-- **Missing word detection** highlights unclear pronunciation
-- **Clarity score calculation**:
-  - 50% Word accuracy (exact matches)
-  - 25% Sequence preservation (word order)
-  - 15% Length consistency
-  - 10% Character similarity
-
-### 4. **Pacing Analysis Engine**
-```
-Audio Segments → Timing Analysis → WPM Calculation → Rhythm Assessment
-```
-- **Words per minute** calculation from audio timestamps
-- **Rhythm consistency** analysis across speech segments
-- **Pause detection** and emphasis identification
-- **Audience-specific optimization** recommendations
-
-### 5. **Tone Delivery Assessment**
-```
-All Metrics → Context Analysis → Goal Alignment → Effectiveness Score
-```
-- **Multi-dimensional analysis** combining all previous metrics
-- **Audience-goal matching** for contextual appropriateness
-- **Delivery effectiveness** scoring based on intended outcome
-
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -101,6 +50,57 @@ All Metrics → Context Analysis → Goal Alignment → Effectiveness Score
 ```bash
 python main.py
 ```
+
+## 🤖 How the AI Analyzes Your Speech
+
+### 1. **Audio Processing Pipeline**
+```
+Audio Input → Whisper STT → Text Comparison → Clarity Scoring
+```
+- **Whisper AI** transcribes your speech with high accuracy
+- **Librosa** processes audio signals for acoustic features
+- **Noise reduction** and normalization improve transcription quality
+- **Multi-format support** handles various audio file types
+
+### 2. **Emotion Detection Process**
+```
+Text → Sentence Segmentation → Transformer Models → Emotion Classification
+```
+- **HuggingFace Transformers** analyze emotional content
+- **Sentence-level mapping** tracks emotional progression
+- **VADER sentiment** provides additional emotional context
+- **Consistency scoring** measures emotional stability throughout speech
+
+### 3. **Clarity Analysis Method**
+```
+User Text ↔ AI Transcription → Word Matching → Pronunciation Assessment
+```
+- **Word-level comparison** between intended and transcribed text
+- **Edit distance algorithms** identify potential mispronunciations
+- **Phonetic similarity matching** catches sound-based errors
+- **Missing word detection** highlights unclear pronunciation
+- **Clarity score calculation**:
+  - 50% Word accuracy (exact matches)
+  - 25% Sequence preservation (word order)
+  - 15% Length consistency
+  - 10% Character similarity
+
+### 4. **Pacing Analysis Engine**
+```
+Audio Segments → Timing Analysis → WPM Calculation → Rhythm Assessment
+```
+- **Words per minute** calculation from audio timestamps
+- **Rhythm consistency** analysis across speech segments
+- **Pause detection** and emphasis identification
+- **Audience-specific optimization** recommendations
+
+### 5. **Tone Delivery Assessment**
+```
+All Metrics → Context Analysis → Goal Alignment → Effectiveness Score
+```
+- **Multi-dimensional analysis** combining all previous metrics
+- **Audience-goal matching** for contextual appropriateness
+- **Delivery effectiveness** scoring based on intended outcome
 
 ## 📋 Usage Guide
 
